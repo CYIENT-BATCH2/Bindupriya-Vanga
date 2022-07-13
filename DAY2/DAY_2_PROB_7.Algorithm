@@ -1,7 +1,5 @@
 initialize the variable
 take the input from the user
-check the condition for  present year is greater than 1990 
 write the condition to find the leap years in between given(1990)year and the present year.
 if we found the leap year then we increment the count
-if the given condition is false then increment the year
 print the output for how many leap years in between 1990 to present year
