@@ -1,5 +1,5 @@
 take the input values 
-loop condition for printig the palindrome number.
+ write the loop condition for printig the palindrome number.
 comparing given number and updated num to printing the reverse number.
 if condition is true then print "palindrome".
 if condition is false then print "not palindrome".
