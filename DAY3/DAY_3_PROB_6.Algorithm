@@ -1,0 +1,4 @@
+initialize the variables
+take the input from the user
+write the hex value  and right shift bit value as input
+print the value after right shifted
