@@ -1,6 +1,5 @@
 initialize the variables
-take the input from the user
-check the num is lessthan the 999(because we want to reverse only 3 integer values and below not 4 digit value). 
+take the input from the user 
 if this condition  is true then it exucutes the statement
 write the logic to reverse three 3 digit number
 print the output
