@@ -1,0 +1,6 @@
+initialize the variables
+take the array for n number of tickets
+find the size of an array
+write the condition to check whether the number is 3
+if we found the number then find how many 3's are prsent by using increment operator
+print the output
