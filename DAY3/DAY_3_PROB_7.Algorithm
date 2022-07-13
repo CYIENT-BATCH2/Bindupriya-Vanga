@@ -1,7 +1,5 @@
 initialize the variables
-take the input of present year from the user
-take the input of your date of birth from the user
+take the input of present year from the user and date of birth
 calculate age with help of present year and date of birth using if condition
 if this condition is true it excecute if statement
-if the above condition is true it excecute if statement
 print the output
